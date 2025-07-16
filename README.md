@@ -9,4 +9,8 @@ Welcome to the official repository for the **TMW Shield** internal IP list. This
 
 ## Download
 
+https://raw.githubusercontent.com/Tizian-Maxime-Weigt/L7-HTTP-DDoS-Flood-IP-Signature-IP-List/refs/heads/main/ddos-signatures.txt
 
+## Disclaimer:
+
+The IP lists are provided without warranty of any kind!
