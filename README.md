@@ -1,16 +1,39 @@
-# TMW Shield - Internal IP List
+# 🛡️ TMW Shield - Internal IP List
 
-Welcome to the official repository for the **TMW Shield** internal IP list. This list is shared freely with the public to help enhance cybersecurity efforts by mitigating DDoS attacks and preventing unwanted traffic. Our list is updated daily (internaly) to ensure accuracy and relevance in the rapidly evolving landscape of online security threats.
+Welcome to the official repository for **TMW Shield**, a curated list of internal IPs aimed at enhancing **cybersecurity**, **mitigating DDoS attacks**, and **blocking malicious traffic**. This list is updated **daily** (not here internaly) and is **freely available** for community use and integration into firewalls, threat intelligence systems, and web application filters.
 
-## Features
+## 🔐 What is This?
 
-- **Free to use**: The internal IP list is publicly available for anyone to access, ensuring more people can benefit from our efforts to improve network security.
-- **Comprehensive**: The list contains a wide range of IP addresses collected and vetted for reliability and effectiveness in security applications.
+**TMW Shield** provides a list of IP addresses associated with:
 
-## Download
+- Known DDoS attack patterns (Layer 7 HTTP floods)
+- Malicious or bot-generated traffic
+- Probing or scraping activity
 
-[Here](https://raw.githubusercontent.com/Tizian-Maxime-Weigt/L7-HTTP-DDoS-Flood-IP-Signature-IP-List/refs/heads/main/ddos-signatures.txt)
+Use this list to protect your infrastructure by blocking, rate-limiting, or analyzing incoming requests from flagged sources.
 
-## Disclaimer:
+---
 
-The IP lists are provided without warranty of any kind!
+## ✅ Features
+
+- **📂 Free and Open Source**  
+  Publicly available for all cybersecurity professionals, developers, and network admins.
+
+- **📈 Regularly Updated**  
+  Updated internally every day to reflect the latest threat intel.
+
+- **🧠 Vetted and Curated**  
+  The IPs are collected from real-world traffic and reviewed for accuracy.
+
+- **🔧 Easy Integration**  
+  Use the raw list with firewalls, WAFs, NGINX/Apache rules, or SIEM tools.
+
+---
+
+## 📥 Download the Latest IP List
+
+📄 **Raw IP List (Updated Daily):**  
+[🔗 Click here to download](https://raw.githubusercontent.com/Tizian-Maxime-Weigt/L7-HTTP-DDoS-Flood-IP-Signature-IP-List/refs/heads/main/ddos-signatures.txt)
+
+```bash
+curl -O https://raw.githubusercontent.com/Tizian-Maxime-Weigt/L7-HTTP-DDoS-Flood-IP-Signature-IP-List/refs/heads/main/ddos-signatures.txt
