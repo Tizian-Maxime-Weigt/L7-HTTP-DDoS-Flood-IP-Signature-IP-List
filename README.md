@@ -1,4 +1,4 @@
-# 🛡️ TMW Shield - Internal DDoS IP List
+# 🛡️ TMW Shield - DDoS IP List
 
 Welcome to the official repository for **TMW Shield**, a curated list of internal IPs aimed at enhancing **cybersecurity**, **mitigating DDoS attacks**, and **blocking malicious traffic**. This list is updated **daily** (not here internaly) and is **freely available** for community use and integration into firewalls, threat intelligence systems, and web application filters.
 
